@@ -1,0 +1,8 @@
+package com.mateoconsulting.dkactive
+
+class Venue {
+
+	String ventue
+    static constraints = {
+    }
+}

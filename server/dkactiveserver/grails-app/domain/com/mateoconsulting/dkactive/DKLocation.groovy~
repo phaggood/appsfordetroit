@@ -1,0 +1,7 @@
+package com.mateoconsulting.dkactive
+
+class DKLocation {
+
+    static constraints = {
+    }
+}
